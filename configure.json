@@ -1,0 +1,9 @@
+{
+    "dev" : true,
+    "appName" : "Tool Name",
+    "source" : "billing",
+    "api" : "http://localhost/billing/api.php",
+    "clientId" : "69560345881-ie8uk2j4h5hevskhogc545qffcabhdcb.apps.googleusercontent.com",
+    "under_maintenance": false,
+    "downloads" : true
+}

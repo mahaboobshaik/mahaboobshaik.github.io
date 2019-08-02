@@ -1,0 +1,8 @@
+{
+    "dev" : false,
+    "appName" : "Tool Name",
+    "source" : "billing",
+    "api" : "http://localhost/billing/api.php",
+    "under_maintenance": false,
+    "downloads" : true
+}
